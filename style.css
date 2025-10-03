@@ -33,9 +33,22 @@ ul {
   list-style-type: none; 
 }
 
+.top-of-the-page {
+    display: flex;
+    justify-content: space-between;
+}
+
+.links {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+}
+
 .button {
     color: #3882f6;
 }
+
+
 
 /* second part of the page */
 
