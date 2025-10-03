@@ -20,12 +20,17 @@ a,
 .text-below-title1 {
     color:#e5e7eb;
     font-size: 18px;;
+    text-decoration: none;
 }
 
 .title1 {
     color: #f9faf8;
     font-size: 48px;
     font-weight: 900;
+}
+
+ul {
+  list-style-type: none; 
 }
 
 .button {
