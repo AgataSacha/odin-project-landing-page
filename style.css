@@ -12,7 +12,7 @@ flex-direction: column;
 
 .first-part {
     display: flex;
-    gap: 20px;
+    justify-content: space-evenly;
 }
 
 .left-side-of-first-part {
@@ -76,11 +76,6 @@ button {
     border: none;
 }
 
-.signup-button2 {
-    border: white;
-}
-
-
 
 /* second part of the page */
 
@@ -112,6 +107,22 @@ button {
 
 
 /* fourth part of the page */
+
+.fourth-part {
+    display: flex;
+    background-color: #3882f6;
+    color: white;
+}
+
+.title4 {
+    color: #f9faf8;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.signup-button2 {
+    border: white;
+}
 
 
 /* footer */
