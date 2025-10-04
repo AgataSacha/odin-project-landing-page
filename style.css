@@ -1,6 +1,7 @@
 body{
 display: flex;
 flex-direction: column;
+}
 
 /* first part of the page*/
 
@@ -95,12 +96,18 @@ button {
 
 .third-part {
     background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
 }
 
 .quote {
     color: #1f2937;
     font-size: 36px;
     font-weight: 300;
+}
+
+.author {
+    align-self: flex-end;
 }
 
 
@@ -113,7 +120,6 @@ button {
     background-color: #1f2937;
     padding-top: 20px;
     padding-bottom: 20px;
-
 }
 
 .footer-text {
