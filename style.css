@@ -111,3 +111,15 @@ button {
     color: #e5e7eb;
     text-align: center;
 }
+
+
+/*padding for all parts */
+.top-of-the-page,
+.first-part,
+.second-part,
+.third-part,
+.fourth-part,
+footer {
+    padding-left: 100px;
+    padding-right: 100px;
+}
