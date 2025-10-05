@@ -79,11 +79,40 @@ button {
 
 /* second part of the page */
 
+
 .title2 {
     color: #1f2937;
     font-size: 36px;
     font-weight: 900;
+    text-align: center;
+    padding-bottom: 70px;
 }
+
+.pictures {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.picture1,
+.picture2,
+.picture3,
+.picture4 {
+    border: 5px solid #3882f6;
+    border-radius: 20px;
+    height: 160px;
+    width: 160px;
+}
+
+.pic-with-text {
+    width: 160px;
+}
+
+.caption {
+    text-align: center;
+    color: grey;
+}
+
 
 
 
