@@ -26,6 +26,7 @@ font-family: 'Roboto';
 .header-logo {
     color: #f9faf8;
     font-size: 24px;
+    font-weight: 700;
 }
 
 a,
@@ -129,6 +130,7 @@ button {
     color: #1f2937;
     font-size: 36px;
     width: 750px;
+    font-weight: 300;
     align-self: center;
 }
 
