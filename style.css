@@ -143,8 +143,11 @@ button {
 
 .fourth-part {
     display: flex;
+    justify-content: space-between;
     background-color: #3882f6;
     color: white;
+    margin: 100px 250px 100px 250px;
+    border-radius: 8px;
 }
 
 .title4 {
@@ -154,7 +157,7 @@ button {
 }
 
 .signup-button2 {
-    border: white;
+    border: 2px solid white;
 }
 
 
