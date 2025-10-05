@@ -150,8 +150,9 @@ ul {
     justify-content: space-between;
     background-color: #3882f6;
     color: white;
-    margin: 100px 250px 100px 250px;
+    margin: 100px 250px 100px 250px; 
     border-radius: 8px;
+    padding: 60px 130px 60px 130px;
 }
 
 .title4 {
@@ -188,8 +189,7 @@ ul {
 /*padding for all parts */
 .first-part,
 .second-part,
-.third-part,
-.fourth-part {
+.third-part {
     padding: 100px 180px 100px 180px; 
 }
 
